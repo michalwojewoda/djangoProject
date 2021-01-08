@@ -1,4 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ProjectPlainTextFileTypeManager">
+    <file url="file://$PROJECT_DIR$/product/migrations/0001_initial.py" />
+    <file url="file://$PROJECT_DIR$/product/migrations/0002_auto_20210103_2139.py" />
+    <file url="file://$PROJECT_DIR$/product/migrations/0003_aghjke_shits.py" />
+    <file url="file://$PROJECT_DIR$/product/migrations/0004_auto_20210104_1103.py" />
+    <file url="file://$PROJECT_DIR$/product/migrations/0005_profile.py" />
+    <file url="file://$PROJECT_DIR$/product/migrations/0006_delete_profile.py" />
+    <file url="file://$PROJECT_DIR$/product/migrations/0007_auto_20210106_0103.py" />
+    <file url="file://$PROJECT_DIR$/product/migrations/0008_auto_20210106_0114.py" />
+    <file url="file://$PROJECT_DIR$/product/migrations/0009_remove_product_featured.py" />
+  </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.7 (djangoProject)" project-jdk-type="Python SDK" />
 </project>

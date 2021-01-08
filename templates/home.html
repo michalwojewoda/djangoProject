@@ -1,13 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Hello world</title>
+{% extends 'base.html' %}
+{% block content %}
 
-</head>
-<body>
 <h1>Hello people</h1>
 {{ request.user }}
 <p>this is a template</p>
-</body>
-</html>
+{% endblock %}
